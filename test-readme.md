@@ -11,5 +11,3 @@ I will use [this reference](https://guides.github.com/features/mastering-markdow
 
 One day **soon** I will be a markdown master.
 
-
-I've added this change here.
