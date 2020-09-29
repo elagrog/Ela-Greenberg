@@ -2,10 +2,10 @@
 
 _Jerusalem, Israel_
 
-[LinkedIn] (www.linkedin.com/in/elagreenberg)
+[LinkedIn](www.linkedin.com/in/elagreenberg)
 
 
-English language editor and aspiring technical communicator
+English language editor and aspiring technical communicator.
 
 
 
